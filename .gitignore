@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.jpg
+data/state-farm-distracted-driver-detection.zip
+data/state-farm-distracted-driver-detection/sample_submission.csv
+data/state-farm-distracted-driver-detection/driver_imgs_list.csv
